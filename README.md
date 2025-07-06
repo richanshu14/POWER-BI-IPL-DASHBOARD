@@ -38,6 +38,3 @@ This project showcases an interactive **Power BI Dashboard** built using Indian 
 **Richanshu Yadav**  
 [GitHub Profile](https://github.com/richanshu14)
 
-## 📜 License
-
-This project is open-source and available under the [MIT License](LICENSE).
